@@ -1,0 +1,1 @@
+{"name":"Local: L1-040 最佳情侣身高差","url":"e:\\file_cpp\\天梯赛\\L1-040 最佳情侣身高差.cpp","tests":[{"id":1758172092707,"input":"2\nM 1.75\nF 1.8","output":"1.61\n1.96"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\file_cpp\\天梯赛\\L1-040 最佳情侣身高差.cpp","group":"local","local":true}

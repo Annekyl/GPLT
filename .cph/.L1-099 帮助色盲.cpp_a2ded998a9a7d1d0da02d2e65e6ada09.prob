@@ -1,0 +1,1 @@
+{"name":"Local: L1-099 帮助色盲","url":"e:\\file_cpp\\天梯赛\\L1-099 帮助色盲.cpp","tests":[{"id":1759985040771,"input":"0 0","output":"biii\nstop"},{"id":1759985046356,"input":"1 1","output":"-\nmove"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\file_cpp\\天梯赛\\L1-099 帮助色盲.cpp","group":"local","local":true}

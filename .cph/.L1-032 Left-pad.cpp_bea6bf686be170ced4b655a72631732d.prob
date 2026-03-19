@@ -1,0 +1,1 @@
+{"name":"Local: L1-032 Left-pad","url":"e:\\file_cpp\\天梯赛\\L1-032 Left-pad.cpp","tests":[{"id":1758086846367,"input":"15 _\nI love GPLT","output":"____I love GPLT"},{"id":1758086998113,"input":"4 *\nthis is a sample for cut","output":" cut"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\file_cpp\\天梯赛\\L1-032 Left-pad.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: L1-031 到底是不是太胖了","url":"e:\\file_cpp\\天梯赛\\L1-031 到底是不是太胖了.cpp","tests":[{"id":1758086112169,"input":"3\n169 136\n150 81\n178 155","output":"You are wan mei!\nYou are tai shou le!\nYou are tai pang le!"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\file_cpp\\天梯赛\\L1-031 到底是不是太胖了.cpp","group":"local","local":true}

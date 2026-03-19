@@ -1,0 +1,1 @@
+{"name":"Local: L1-095 分寝室","url":"e:\\file_cpp\\天梯赛\\L1-095 分寝室.cpp","tests":[{"id":1759931689580,"input":"24 60 10","output":"4 6"},{"id":1759931702000,"input":"29 30 10","output":"No Solution"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\file_cpp\\天梯赛\\L1-095 分寝室.cpp","group":"local","local":true}

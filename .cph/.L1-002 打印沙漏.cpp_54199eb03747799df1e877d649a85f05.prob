@@ -1,0 +1,1 @@
+{"name":"Local: L1-002 打印沙漏","url":"e:\\file_cpp\\天梯赛\\L1-002 打印沙漏.cpp","tests":[{"id":1757254909504,"input":"19 *","output":"*****\n ***\n  *\n ***\n*****\n2"},{"id":1757255281657,"input":"1000 *","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\file_cpp\\天梯赛\\L1-002 打印沙漏.cpp","group":"local","local":true}

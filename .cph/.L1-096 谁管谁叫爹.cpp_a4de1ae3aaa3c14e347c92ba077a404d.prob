@@ -1,0 +1,1 @@
+{"name":"Local: L1-096 谁管谁叫爹","url":"e:\\file_cpp\\天梯赛\\L1-096 谁管谁叫爹.cpp","tests":[{"id":1759932900932,"input":"4\n999999999 891\n78250 3859\n267537 52654299\n6666 120","output":"B\nA\nB\nA"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\file_cpp\\天梯赛\\L1-096 谁管谁叫爹.cpp","group":"local","local":true}
