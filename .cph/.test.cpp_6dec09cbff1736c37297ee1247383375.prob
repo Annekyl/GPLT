@@ -1,0 +1,1 @@
+{"name":"Local: test","url":"e:\\file_cpp\\competition\\天梯赛\\test.cpp","tests":[{"id":1773919786939,"input":"9\n8 4 2 5 3 9 1 6 7","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\file_cpp\\competition\\天梯赛\\test.cpp","group":"local","local":true}
