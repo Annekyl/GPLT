@@ -1,0 +1,1 @@
+{"name":"Local: L2-018 多项式A除以B","url":"d:\\Study\\file_cpp\\GPLT\\L2-018 多项式A除以B.cpp","tests":[{"id":1774068419495,"input":"4 4 1 2 -3 1 -1 0 -1\n3 2 3 1 -2 0 1","output":"3 2 0.3 1 0.2 0 -1.0\n1 1 -3.1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Study\\file_cpp\\GPLT\\L2-018 多项式A除以B.cpp","group":"local","local":true}
