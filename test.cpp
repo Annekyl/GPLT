@@ -6,6 +6,8 @@ typedef long long ll;
 typedef vector<int> vi;
 typedef pair<int, int> pii;
 
+const int N = 1e5 + 10;
+
 int n;
 
 void solve() {
