@@ -1,0 +1,1 @@
+{"name":"Local: L2-033 简单计算器","url":"d:\\Study\\file_cpp\\GPLT\\L2-033 简单计算器.cpp","tests":[{"id":1774512088422,"input":"5\n40 5 8 3 2\n/ * - +","output":"2"},{"id":1774512096530,"input":"5\n2 5 8 4 4\n* / - +","output":"ERROR: 5/0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Study\\file_cpp\\GPLT\\L2-033 简单计算器.cpp","group":"local","local":true}
