@@ -1,0 +1,1 @@
+{"name":"Local: L2-037 包装机","url":"d:\\Study\\file_cpp\\GPLT\\L2-037 包装机.cpp","tests":[{"id":1774579315315,"input":"3 4 4\nGPLT\nPATA\nOMSA\n3 2 3 0 1 2 0 2 2 0 -1","output":"MATA"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Study\\file_cpp\\GPLT\\L2-037 包装机.cpp","group":"local","local":true}

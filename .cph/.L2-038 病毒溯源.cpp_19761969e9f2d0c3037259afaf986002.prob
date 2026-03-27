@@ -1,0 +1,1 @@
+{"name":"Local: L2-038 病毒溯源","url":"d:\\Study\\file_cpp\\GPLT\\L2-038 病毒溯源.cpp","tests":[{"id":1774581538886,"input":"10\n3 6 4 8\n0\n0\n0\n2 5 9\n0\n1 7\n1 2\n0\n2 3 1","output":"4\n0 4 9 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Study\\file_cpp\\GPLT\\L2-038 病毒溯源.cpp","group":"local","local":true}
