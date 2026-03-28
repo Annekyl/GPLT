@@ -1,0 +1,1 @@
+{"name":"Local: L2-053 算式拆解","url":"d:\\Study\\file_cpp\\GPLT\\L2-053 算式拆解.cpp","tests":[{"id":1774689411434,"input":"(((2+3)*4)-(5/(6*7)))\n","output":"2+3\n*4\n6*7\n5/\n-\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Study\\file_cpp\\GPLT\\L2-053 算式拆解.cpp","group":"local","local":true}
